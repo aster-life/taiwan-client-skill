@@ -55,7 +55,7 @@
 
 ```bash
 # 全域安裝（所有專案都能用）
-git clone https://github.com/aster-life/wang-dong-skill ~/.claude/skills/wang-dong
+git clone https://github.com/aster-life/taiwan-client-skill ~/.claude/skills/wang-dong
 ```
 
 ### 方式二：手動下載
